@@ -1,0 +1,7 @@
+Hello GitHub > hello.txt
+git add hello.txt
+git commit -m initial commit
+git branch -M main
+git remote add origin https://github.com/kyojurorengo/project.git
+git push -u origin main
+echo Hello GitHub
